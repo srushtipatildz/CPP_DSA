@@ -1,8 +1,9 @@
 #include <iostream>
 using namespace std;
 int main(){
-    for(int i=0;i<=7;i++){
-        for(int j=0;j<=7;j++){
+    int n=6;
+    for(int i=1;i<=n;i++){
+        for(int j=1;j<=n;j++){
             cout<<i;
         }
         cout<<endl;
