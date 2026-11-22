@@ -19,4 +19,5 @@ for(int i=1;i<=n;i++){
      character++;
     cout<<endl;
 }
+
 }
