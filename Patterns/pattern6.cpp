@@ -1,4 +1,4 @@
-// Hollow pyramid
+// Hollow rectangle
 #include<iostream>
 using namespace std;
 int main(){
